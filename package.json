@@ -1,0 +1,19 @@
+{
+  "name": "agenciaviajesnode",
+  "version": "1.0.0",
+  "description": "Agencia de viajes creada con NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Alejandro Ramirez Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
